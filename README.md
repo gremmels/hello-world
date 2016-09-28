@@ -1,2 +1,2 @@
 # hello-world
-Endlich auch bei GitHub.
+I use github to make software available to journal reviewers.
